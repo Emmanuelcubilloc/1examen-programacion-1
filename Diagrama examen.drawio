@@ -1,0 +1,45 @@
+<mxfile host="app.diagrams.net" modified="2024-06-15T07:30:27.407Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="j_SsugT3nbbg7QNQJUL3" version="24.4.14" type="device">
+  <diagram name="Página-1" id="2jySAY--rdNNipgEUtmt">
+    <mxGraphModel dx="438" dy="1418" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="TrnLxEa8hP8xGK3peghQ-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TrnLxEa8hP8xGK3peghQ-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="370.0000000000001" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TrnLxEa8hP8xGK3peghQ-2" value="Gestión de resiclaje" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="320" y="-10" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TrnLxEa8hP8xGK3peghQ-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="370.0000000000001" y="190" as="sourcePoint" />
+            <mxPoint x="370" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TrnLxEa8hP8xGK3peghQ-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TrnLxEa8hP8xGK3peghQ-8" target="TrnLxEa8hP8xGK3peghQ-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TrnLxEa8hP8xGK3peghQ-8" value="imprime nombre usuario" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=card;whiteSpace=wrap;size=20;arcSize=12;" vertex="1" parent="1">
+          <mxGeometry x="320" y="260" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TrnLxEa8hP8xGK3peghQ-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TrnLxEa8hP8xGK3peghQ-10" target="TrnLxEa8hP8xGK3peghQ-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TrnLxEa8hP8xGK3peghQ-10" value="&lt;font&gt;Inicia puntos usuario puntos = 0,contador usuariostotalUsuarios++&lt;/font&gt;&lt;div&gt;&lt;font&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;verticalAlign=top;arcSize=12;" vertex="1" parent="1">
+          <mxGeometry x="290" y="390" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="TrnLxEa8hP8xGK3peghQ-12" value="ingrese el nombre del usuario" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+          <mxGeometry x="300" y="120" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TrnLxEa8hP8xGK3peghQ-13" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;verticalAlign=top;arcSize=12;" vertex="1" parent="1">
+          <mxGeometry x="310" y="545" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TrnLxEa8hP8xGK3peghQ-15" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="330" y="-1050" width="100" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
